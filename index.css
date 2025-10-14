@@ -1,0 +1,12 @@
+header{
+display: flex;
+}
+ul{
+    display: flex;
+}
+li{
+    margin: 30px;
+}
+h2{
+    font-weight: normal;
+}
